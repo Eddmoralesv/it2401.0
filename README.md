@@ -1,3 +1,5 @@
 # it2401.0
-These tables were created by 
-Jon Jaussi jaussijon
+DFNB Tables creation example
+
+
+These tables were created by  jaussijon
